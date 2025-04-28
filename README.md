@@ -90,4 +90,18 @@ This data science project aims to help Salifort Motors' HR department predict em
 - Scikit-learn, XGBoost
 - Matplotlib, Seaborn
 
-### File Structure
+## Ethical Considerations
+- Anonymized employee data usage
+- Bias checking in model predictions
+- HR discretion in acting on predictions
+- Regular model audits for fairness
+
+## References
+1. [Kaggle HR Analytics Dataset](https://www.kaggle.com/datasets/ludobenistant/hr-analytics)
+2. [Scikit-learn Documentation](https://scikit-learn.org/stable/)
+3. [AI Ethics Guidelines](https://www.partnershiponai.org/about-ml/)
+
+---
+
+​**Contributors**: Ma Long  
+​**Last Updated**: April 2025
